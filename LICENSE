@@ -1,4 +1,4 @@
-MIT License
+MIT-Style License with Attribution Requirement
 
 Copyright (c) 2026 Interchained LLC
 
@@ -12,7 +12,14 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-Contact: dev@interchained.org
+Any derivative work, modified version, redistribution, or substantial use of
+this Software must retain visible attribution to:
+Interchained LLC
+dev@interchained.org
+AiAssist Secure
+
+Such attribution must be included in source distributions and in any
+accompanying documentation, credits, notice file, or equivalent location.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
