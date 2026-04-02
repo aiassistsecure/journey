@@ -140,7 +140,7 @@ python3 -m venv venv
 source venv/bin/activate   # different on Windows depending on which shell
 pip install -r requirements.txt
 cp .env.example .env        # Add your AiAssist.net API key
-python journey.py "your topic here"
+python3 journey.py "your topic here"
 ```
 
 ### Requirements
