@@ -6,6 +6,30 @@ An AI-powered Python agent that discovers publications covering your topic, iden
 
 Built for founders, PR teams, and anyone who wants to get published. Point it at a topic, and it does the research for you.
 
+# Journey
+
+Journey is an AI agent that turns what you're building into targeted media opportunities.
+
+It finds journalists already writing about your space — so you can pitch with relevance, not guesswork.
+
+## Why Journey?
+
+Builders ship.
+Most never get seen.
+
+Journey fixes distribution.
+
+## Use cases
+- SaaS launches
+- Open source releases
+- Product updates
+- Founder stories
+
+## Philosophy
+Don't spray 1,000 emails.
+
+Find the 10 people already writing about you.
+
 ---
 
 ## What It Does
