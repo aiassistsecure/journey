@@ -130,11 +130,14 @@ PROGRESS REPORT
 
 ---
 
-## Quick Start
+## Quick Start 
+### (linux, windows is slightly different venv)
 
 ```bash
-git clone https://github.com/youruser/journey.git
+git clone https://github.com/aiassistsecure/journey.git
 cd journey
+python3 -m venv venv
+source venv/bin/activate   # different on Windows depending on which shell
 pip install -r requirements.txt
 cp .env.example .env        # Add your AiAssist.net API key
 python journey.py "your topic here"
