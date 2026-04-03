@@ -147,7 +147,7 @@ python3 journey.py "your topic here"
 
 - Python 3.10+
 - `requests` library
-- An [AiAssist.net](https://aiassist.net) API key (enterprise plan) with access to:
+- An [AiAssist.net](https://aiassist.net) API key (any plan, start free 7 days) with access to:
   - `/v1/chat/completions` — AI analysis (GPT-5.4 via OpenAI provider)
   - `/v1/search` — Web search
   - `/v1/web/extract` — Web page extraction
